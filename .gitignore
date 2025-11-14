@@ -1,0 +1,6 @@
+# Ignore everything inside data/
+data/*
+legacy/*
+
+# data/ is kept as a placeholder folder for completeness of the repository
+!data/ .gitkeep
