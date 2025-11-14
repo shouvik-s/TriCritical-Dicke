@@ -1,5 +1,5 @@
 # Tri-Critical Dicke Model (TCDM)
-_[Based on PRL 122, 193201 (2019) (1904.10576)]_
+_[Model based on PRL 122, 193201 (2019) (1904.10576)]_
 
 *** NOTE: Reduces to Dicke Model at \epsilon = 0***
 
