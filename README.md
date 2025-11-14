@@ -1,6 +1,7 @@
 # Tri-Critical Dicke Model (TCDM)
 _[Based on PRL 122, 193201 (2019) (1904.10576)]_
-_[Reduces to Dicke Model at \epsilon = 0]_
+
+*** NOTE: Reduces to Dicke Model at \epsilon = 0***
 
 This repository contains Julia codes to obtain 
 1. The phase diagram of the TCDM.
