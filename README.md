@@ -1,12 +1,12 @@
 # Tri-Critical Dicke Model (TCDM)
 _[Model based on PRL 122, 193201 (2019) (1904.10576)]_
 
-*** NOTE: Reduces to Dicke Model at \epsilon = 0***
+NOTE: Reduces to Dicke Model at $\epsilon = 0$.
 
 This repository contains Julia codes to obtain 
 1. The phase diagram of the TCDM.
-2. The quadratures that get perfectly squeezed across the superradiant quantum phase transition (SRPT). 
-3. Computations of two-parameter phase estimation. 
+2. The quadratures that get perfectly squeezed across the superradiant quantum phase transition (SRPT). {_to-do_}
+3. Computations of two-parameter phase estimation. {_to-do_} 
 
 All physical parameters and scan ranges are controlled by a **Makefile**.
 
